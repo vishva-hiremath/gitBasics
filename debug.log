@@ -1,3 +1,0 @@
-open -a TextEdit filename should do the trick.
-
-The -a flag specifies any application you want, so it's applicable to any number of situations, including ones where TextEdit isn't the default editor.
